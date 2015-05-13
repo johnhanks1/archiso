@@ -21,8 +21,10 @@ efivar
 elinks
 ethtool
 f2fs-tools
+fabric
 fio
 fsarchiver
+git
 gnu-netcat
 gpm
 gptfdisk
