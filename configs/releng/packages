@@ -46,6 +46,7 @@ lsscsi
 lsof
 mc
 mtools
+ncdu
 nethogs
 nfs-utils
 nilfs-utils
