@@ -20,6 +20,7 @@ efibootmgr
 efivar
 elinks
 ethtool
+exfat-utils
 f2fs-tools
 fabric
 fio
@@ -49,6 +50,7 @@ mc
 mtools
 ncdu
 nethogs
+ndisc6
 nfs-utils
 nilfs-utils
 nmap
