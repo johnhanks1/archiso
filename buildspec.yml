@@ -17,7 +17,9 @@ phases:
   build:
     commands:
       - bash -x ./update-arch-iso.sh
-      - df -h
+  post-build:
+    commands:
+        - df -h
 
 artifacts:
   files:
